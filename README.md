@@ -1,7 +1,7 @@
 # KingNET
 A Twitter/4chan-style public message board, written in Java
 
-So, due to ISP issues, as of now I've given up hope of taking KingNET online. Anyway, for what it's worth, here's the kind of system setup needed:
+**So, due to ISP issues, as of now I've given up hope of taking KingNET online. Anyway, for what it's worth, here's the kind of system setup needed:**
 
 The JRE of your choice
 
@@ -9,7 +9,7 @@ Apache Tomcat
 
 MySQL or a compatible equivalent (I personally use MariaDB)
 
-The SQL tables need to be setup as follows:
+**The SQL tables need to be setup as follows:**
 
 table users:
 username, passhash, sessionid
@@ -17,7 +17,7 @@ username, passhash, sessionid
 table threads:
 threadid, title, posts_dir
 
-SQL credentials for KingNET:
+**SQL credentials for KingNET:**
 
 username: knet
 
