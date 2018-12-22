@@ -1,7 +1,7 @@
 # KingNET
 A Twitter/4chan-style public message board, written in Java
 
-**KingNET should be online soon. I'll be linking to it when it finally is.**
+**Software requirements:**
 
 The JRE of your choice
 
