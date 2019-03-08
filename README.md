@@ -1,9 +1,7 @@
 # KingNET
 A Twitter/4chan-style public message board, written in Java
 
-KingNET should be online, at kingnet.ddns.net
-
-If it isn't, maybe there's a power outage, or I forgot to pay the internet bill, or I got bored and wanted to mess with y'all :P
+**KingNET is dead. Long live KingNET**
 
 **Software requirements:**
 
